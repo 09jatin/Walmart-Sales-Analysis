@@ -110,7 +110,7 @@ The dataset contains retail transaction data including:
 
 ### Executive Summary
 
-Images/Screenshot 2026-07-16 192158.png
+https://github.com/09jatin/Walmart-Sales-Analysis/blob/362828534337d01af0b975029300123c957dacf0/Images/Screenshot%202026-07-16%20192158.png
 
 ---
 
