@@ -109,8 +109,7 @@ The dataset contains retail transaction data including:
 ![Top Products](Images/Top_Products.png)
 
 ### Executive Summary
-
-Images/Screenshot 2026-07-16 192158.png
+Images/Revenue_vs_Profit.png
 ---
 
 ## 📬 Contact
