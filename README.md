@@ -96,7 +96,7 @@ The dataset contains retail transaction data including:
 ## 📷 Project Preview
 
 ### Monthly Revenue Trend
-![Monthly Revenue Trend](Images/Monthly_Revenue_Trend.png)
+![Monthly Revenue Trend](Images/Monthly_Sales_Trend.png)
 
 ### Revenue by State
 ![Revenue by State](Images/Revenue_by_State.png)
