@@ -93,24 +93,22 @@ The dataset contains retail transaction data including:
 
 ---
 
-
 ## 📷 Project Preview
 
-### Monthly Sales Trend
-
-![Monthly Sales Trend](Images/Monthly_Sales_Trend.png)
+### Monthly Revenue Trend
+![Monthly Revenue Trend](Images/Monthly_Revenue_Trend.png)
 
 ### Revenue by State
-
 ![Revenue by State](Images/Revenue_by_State.png)
 
-### Top Products
+### Revenue vs Profit
+![Revenue vs Profit](Images/Revenue_vs_Profit.png)
 
-![Top Products](Images/Top_Products.png)
+### Top 10 Products by Profit
+![Top 10 Products by Profit](Images/Top_10_Products_by_Profit.png)
 
 ### Executive Summary
-Images/Revenue_vs_Profit.png
----
+![Executive Summary](Images/Executive_Summary.png)
 
 ## 📬 Contact
 
